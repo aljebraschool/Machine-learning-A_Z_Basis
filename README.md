@@ -25,7 +25,7 @@ During the course, I covered a wide range of topics, including:
 
 With the knowledge gained from this course, I am excited to embark on my own projects and explore real-world applications of machine learning and data science. This repository will serve as a foundation for my future work in this field.
 
-This repo contains all the code and the datasets used in this code implementation
+This repo contains all the code and the datasets used in this code implementation. The code are written both in Python and R.
 
 Thank you for joining me on this learning journey. If you have any questions or would like to connect, please feel free to reach out. Let's continue to learn and grow together!
 
